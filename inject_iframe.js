@@ -20,6 +20,7 @@ styleTag.textContent = `
         }
         * {
             font-family:  TBRL_CJK_rotate_font !important;
+            font-weight: 800 !important;
         }
 `;
 document.head.appendChild(styleTag);
